@@ -10,6 +10,10 @@ nvidia-smi
 
 ![](https://github.com/InchSoup/-/blob/main/1.%20%E6%9F%A5%E7%9C%8B%E6%98%BE%E5%8D%A1%E4%BF%A1%E6%81%AF%E3%80%81cuda%E7%89%88%E6%9C%AC/src/ubuntu_nvidia.png)
 
+手动清理显存
+
+sudo kill -9 PID
+
 ## 查看cuda版本
 ### windows
 nvcc -V
